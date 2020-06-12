@@ -163,6 +163,21 @@ padding-left: 20px;
     flex: 1;
 }
 
+
+.menu-lines {
+    margin: 0;
+    list-style: none;
+    padding-left: 20px;
+    display: none;
+}
+
+.hidden-menu.open .menu-lines{
+    display: block;
+  }
+
+
+
+
 .footer{
     height: 60px;
     text-align: center;
