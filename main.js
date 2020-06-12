@@ -1,6 +1,13 @@
-let menuElem = document.getElementById('sweeties');
-let titleElem = menuElem.querySelector('.hidden-menu__title');
+let mainMenuElem = document.getElementById('mainMenu');
+let titleMenuElem = mainMenuElem.querySelector('.hidden-menu__title');
 
-titleElem.onclick = function() {
-  menuElem.classList.toggle('open');
+titleMenuElem.onclick = function() {
+    mainMenuElem.classList.toggle('open');
+};
+
+let resourcesElem = document.getElementById('resources');
+let titleResourcesElem = resourcesElem.querySelector('.hidden-resources__title');
+
+titleResourcesElem.onclick = function() {
+    resourcesElem.classList.toggle('open');
 };
