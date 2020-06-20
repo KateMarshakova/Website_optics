@@ -56,7 +56,27 @@ ul, li
 .description
   margin: 13px
   .navigation
-
+    border: 0.5px dotted $border-color
+    .navigation-lines
+      display: flex
+      justify-content: space-around
+      list-style: none
+      padding: 15px 0
+      li
+        position: relative
+        padding: 0 4.4vw
+        &::before
+          content: ''
+          border-left: 2px dotted $border-color
+          display: block
+          position: absolute
+          height: 17px
+          left: 0
+          &:first-child &::before
+            display: none
+    a
+      color: #5a5959
+      font-size: 17px
   .information
 
   .footer

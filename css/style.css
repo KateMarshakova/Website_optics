@@ -65,5 +65,33 @@ ul, li {
 .description {
   margin: 13px;
 }
+.description .navigation {
+  border: 0.5px dotted #d3d3d3;
+}
+.description .navigation .navigation-lines {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  padding: 15px 0;
+}
+.description .navigation .navigation-lines li {
+  position: relative;
+  padding: 0 4.4vw;
+}
+.description .navigation .navigation-lines li::before {
+  content: "";
+  border-left: 2px dotted #d3d3d3;
+  display: block;
+  position: absolute;
+  height: 17px;
+  left: 0;
+}
+.description .navigation .navigation-lines li::before:first-child .description .navigation .navigation-lines li::before::before {
+  display: none;
+}
+.description .navigation a {
+  color: #5a5959;
+  font-size: 17px;
+}
 
 /*# sourceMappingURL=style.css.map */
