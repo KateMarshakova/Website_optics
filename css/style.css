@@ -148,6 +148,25 @@ ul, li {
 .description .information .information-visible__below .welcome {
   padding-left: 20px;
 }
+.description .information .information-hidden {
+  flex: 1;
+  margin-left: 15px;
+}
+.description .information .information-hidden .hidden-menu, .description .information .information-hidden .open, .description .information .information-hidden .menu-lines {
+  display: block;
+}
+.description .information .information-hidden .hidden-menu__title, .description .information .information-hidden .open__title, .description .information .information-hidden .menu-lines__title {
+  cursor: pointer;
+  font-size: 19px;
+  font-weight: 900;
+}
+.description .information .information-hidden .menu-lines {
+  margin: 0;
+  list-style: none;
+  padding-left: 14px;
+  display: none;
+  padding-top: 20px;
+}
 .description .footer {
   height: 60px;
   text-align: center;
