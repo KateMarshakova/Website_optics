@@ -148,5 +148,16 @@ ul, li {
 .description .information .information-visible__below .welcome {
   padding-left: 20px;
 }
+.description .footer {
+  height: 60px;
+  text-align: center;
+}
+.description .footer .footer-text {
+  padding-top: 20px;
+}
+.description .footer .footer-text__link {
+  color: #3a92e4;
+  text-decoration: underline;
+}
 
 /*# sourceMappingURL=style.css.map */
