@@ -115,5 +115,18 @@ ul, li {
 .description .information .information-visible {
   flex: 4;
 }
+.description .information .information-visible__about .about-text {
+  position: relative;
+  padding-top: 11px;
+  margin-top: 30px;
+}
+.description .information .information-visible__about .about-text::before {
+  content: "";
+  border-top: 1px solid #d3d3d3;
+  display: block;
+  position: absolute;
+  width: 99%;
+  top: 0;
+}
 
 /*# sourceMappingURL=style.css.map */

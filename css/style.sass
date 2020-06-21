@@ -95,6 +95,19 @@ ul, li
     margin: 28px 20px 50px
     .information-visible
       flex: 4
+      &__about
+        .about-text
+          position: relative
+          padding-top: 11px
+          margin-top: 30px
+          &::before
+            content: ''
+            border-top: 1px solid  $border-color
+            display: block
+            position: absolute
+            width: 99%
+            top: 0
+
 
 
   .footer
