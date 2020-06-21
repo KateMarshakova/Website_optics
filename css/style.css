@@ -128,5 +128,25 @@ ul, li {
   width: 99%;
   top: 0;
 }
+.description .information .information-visible__below {
+  display: flex;
+  box-sizing: content-box;
+}
+.description .information .information-visible__below .introductions {
+  position: relative;
+  padding-right: 20px;
+}
+.description .information .information-visible__below .introductions::after {
+  content: "";
+  border-left: 1px solid #d3d3d3;
+  display: block;
+  position: absolute;
+  height: 102%;
+  right: 0;
+  top: 6px;
+}
+.description .information .information-visible__below .welcome {
+  padding-left: 20px;
+}
 
 /*# sourceMappingURL=style.css.map */

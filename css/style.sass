@@ -107,7 +107,22 @@ ul, li
             position: absolute
             width: 99%
             top: 0
-
+      &__below
+        display: flex
+        box-sizing: content-box
+        .introductions
+          position: relative
+          padding-right: 20px
+          &::after
+            content: ''
+            border-left: 1px solid $border-color
+            display: block
+            position: absolute
+            height: 102%
+            right: 0
+            top: 6px
+        .welcome
+          padding-left: 20px
 
 
   .footer
