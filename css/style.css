@@ -37,6 +37,20 @@ ul, li {
   background-color: #e0ebf5;
 }
 
+.text {
+  line-height: 24px;
+  padding-bottom: 20px;
+}
+
+.fa-angle-double-right {
+  padding-right: 10px;
+}
+
+.fa-caret-right {
+  padding-right: 10px;
+  padding-bottom: 9px;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -78,7 +92,7 @@ ul, li {
   position: relative;
   padding: 0 4.4vw;
 }
-.description .navigation .navigation-lines li::before {
+.description .navigation .navigation-lines li:not(:first-child)::before {
   content: "";
   border-left: 2px dotted #d3d3d3;
   display: block;
@@ -86,7 +100,7 @@ ul, li {
   height: 17px;
   left: 0;
 }
-.description .navigation .navigation-lines li::before:first-child .description .navigation .navigation-lines li::before::before {
+.description .navigation .navigation-lines li:not(:first-child)::before:first-child .description .navigation .navigation-lines li:not(:first-child)::before::before {
   display: none;
 }
 .description .navigation a {
