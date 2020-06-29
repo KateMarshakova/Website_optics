@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3156bcdb-4146-40a0-b866-7caf91ff2a5d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Sass File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dV2BuJJEDB83dTzFShwzCiRG30" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="Sass" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3156bcdb-4146-40a0-b866-7caf91ff2a5d" name="Default Changelist" comment="" />
+      <created>1592495807671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592495807671</updated>
+      <workItem from="1592495811471" duration="6227000" />
+      <workItem from="1592678983566" duration="10237000" />
+      <workItem from="1593344202002" duration="5997000" />
+    </task>
+    <task id="LOCAL-00001" summary="ADD general style">
+      <created>1592680588836</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592680588836</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ADD header style">
+      <created>1592681691755</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592681691755</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ADD description structure">
+      <created>1592681939334</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592681939334</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ADD navigation style">
+      <created>1592683296122</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592683296122</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ADD refinement of the pseudo-element and pseudo-class in navigation">
+      <created>1592724838358</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592724838359</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ADD additional information in general style (.text, .fa-)">
+      <created>1592725630156</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592725630156</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ADD proper design for .header">
+      <created>1592725734376</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592725734376</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ADD .information and .information-visible style">
+      <created>1592725856024</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1592725856024</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ADD .information-visible__about style">
+      <created>1592725968130</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1592725968130</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ADD .information-visible__below style">
+      <created>1592726087376</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1592726087376</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ADD .footer style">
+      <created>1592726331378</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1592726331378</updated>
+    </task>
+    <task id="LOCAL-00012" summary="ADD .information-hidden ??? finish">
+      <created>1592726803732</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1592726803732</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Merged classes mainMenu and Resources">
+      <created>1593414724916</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1593414724916</updated>
+    </task>
+    <task id="LOCAL-00014" summary="New code in js">
+      <created>1593417099994</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1593417099994</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ADD general style" />
+    <MESSAGE value="ADD header style" />
+    <MESSAGE value="ADD description structure" />
+    <MESSAGE value="ADD navigation style" />
+    <MESSAGE value="ADD refinement of the pseudo-element and pseudo-class in navigation" />
+    <MESSAGE value="ADD additional information in general style (.text, .fa-)" />
+    <MESSAGE value="ADD proper design for .header" />
+    <MESSAGE value="ADD .information and .information-visible style" />
+    <MESSAGE value="ADD .information-visible__about style" />
+    <MESSAGE value="ADD .information-visible__below style" />
+    <MESSAGE value="ADD .footer style" />
+    <MESSAGE value="ADD .information-hidden ??? finish" />
+    <MESSAGE value="Merged classes mainMenu and Resources" />
+    <MESSAGE value="New code in js" />
+    <option name="LAST_COMMIT_MESSAGE" value="New code in js" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="29" key="#Plugins" timestamp="1592556453198">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state x="240" y="29" key="#Plugins/0.23.1280.716@0.23.1280.716" timestamp="1592556453198" />
+    <state x="292" y="166" width="695" height="467" key="EditFileWatcherDialog" timestamp="1592678906478">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state x="292" y="166" width="695" height="467" key="EditFileWatcherDialog/0.23.1280.716@0.23.1280.716" timestamp="1592678906478" />
+    <state x="278" y="150" key="MultipleFileMergeDialog" timestamp="1592724797702">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state x="278" y="149" key="MultipleFileMergeDialog/0.23.1280.716@0.23.1280.716" timestamp="1592683495122" />
+    <state x="278" y="150" key="MultipleFileMergeDialog/0.23.1280.721@0.23.1280.721" timestamp="1592724797702" />
+    <state x="353" y="90" key="RollbackChangesDialog" timestamp="1592724809886">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state x="353" y="90" key="RollbackChangesDialog/0.23.1280.721@0.23.1280.721" timestamp="1592724809886" />
+    <state x="141" y="23" width="997" height="716" key="SettingsEditor" timestamp="1592678942435">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state x="141" y="23" width="997" height="716" key="SettingsEditor/0.23.1280.716@0.23.1280.716" timestamp="1592678942435" />
+    <state x="141" y="23" width="997" height="721" key="SettingsEditor/0.23.1280.721@0.23.1280.721" timestamp="1592556045984" />
+    <state x="240" y="110" key="Vcs.Push.Dialog.v2" timestamp="1593417109197">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="110" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1593417109197" />
+    <state x="240" y="121" key="Vcs.Push.Dialog.v2/0.23.1280.716@0.23.1280.716" timestamp="1592683312166" />
+    <state x="240" y="122" key="Vcs.Push.Dialog.v2/0.23.1280.721@0.23.1280.721" timestamp="1592726342908" />
+    <state x="240" y="122" key="Vcs.Push.Dialog.v2/0.23.1280.723@0.23.1280.723" timestamp="1592726811323" />
+    <state x="338" y="23" width="604" height="721" key="find.popup" timestamp="1592726489310">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state x="338" y="23" width="604" height="721" key="find.popup/0.23.1280.721@0.23.1280.721" timestamp="1592726489310" />
+    <state x="305" y="63" width="670" height="676" key="search.everywhere.popup" timestamp="1592556456342">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state x="305" y="63" width="670" height="676" key="search.everywhere.popup/0.23.1280.716@0.23.1280.716" timestamp="1592556456342" />
+    <state x="305" y="63" width="670" height="681" key="search.everywhere.popup/0.23.1280.721@0.23.1280.721" timestamp="1592555987409" />
+  </component>
+</project>
