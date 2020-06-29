@@ -156,9 +156,6 @@ ul, li {
   font-size: 19px;
   font-weight: 900;
 }
-.description .information .information-hidden .hidden-menu__title .fa-angle-double-right {
-  padding-right: 10px;
-}
 .description .information .information-hidden .hidden-menu__open .menu-lines {
   display: block;
 }
@@ -172,10 +169,6 @@ ul, li {
   font-family: none;
   font-weight: 900;
   font-size: 15px;
-}
-.description .information .information-hidden .menu-lines__link .fa-caret-right {
-  padding-right: 10px;
-  padding-bottom: 9px;
 }
 .description .information .information-hidden .menu-lines__link1 {
   padding-bottom: 15px;
