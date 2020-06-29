@@ -130,6 +130,8 @@ ul, li
           cursor: pointer
           font-size: 19px
           font-weight: $bold-font
+          .fa-angle-double-right
+            padding-right: 10px
       .hidden-menu__open
         .menu-lines
           display: block
@@ -138,10 +140,22 @@ ul, li
         list-style: none
         display: none
         padding-top: 20px
+        &__link
+          font-family: none
+          font-weight: 900
+          font-size: 15px
+          .fa-caret-right
+            padding-right: 10px
+            padding-bottom: 9px
+        &__link1
+          padding-bottom: 15px
+          a
+            color: rgb(87, 87, 87)
+            font-size: 15px
+        &__link2
+          font-size: 15px
       .main-menu
         padding-left: 14px
-
-
   .footer
     height: 60px
     text-align: center
