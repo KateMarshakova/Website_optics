@@ -54,8 +54,7 @@ ul, li {
 .header {
   display: flex;
   justify-content: space-between;
-  background: url(../images/unnamed.jpg) no-repeat;
-  background-position: center;
+  background: url(../images/unnamed.jpg) no-repeat center;
   background-size: cover;
   height: 207px;
   position: relative;
