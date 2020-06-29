@@ -126,18 +126,22 @@ ul, li
     .information-hidden
       flex: 1
       margin-left: 15px
-      .hidden-menu, .open, .menu-lines
-        display: block
+      .hidden-menu
         &__title
           cursor: pointer
           font-size: 19px
           font-weight: $bold-font
+      .hidden-menu__open
+        .menu-lines
+          display: block
       .menu-lines
         margin: 0
         list-style: none
-        padding-left: 14px
         display: none
         padding-top: 20px
+      .main-menu
+        padding-left: 14px
+
 
   .footer
     height: 60px
