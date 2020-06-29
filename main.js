@@ -1,9 +1,13 @@
-const menuElements = document.querySelectorAll('.hidden-menu__title');
+let mainMenuElem = document.getElementById('mainMenu');
+let titleMenuElem = mainMenuElem.querySelector('.hidden-menu__title');
 
-for (let i = 0; i < menuElements.length; i++) {
-    const menu = menuElements[i];
+titleMenuElem.onclick = function() {
+    mainMenuElem.classList.toggle('open');
+};
 
-    menu.onclick = function () {
-        this.parentNode.classList.toggle('hidden-menu__open');
-    };
-}
+let resourcesElem = document.getElementById('resources');
+let titleResourcesElem = resourcesElem.querySelector('.hidden-resources__title');
+
+titleResourcesElem.onclick = function() {
+    resourcesElem.classList.toggle('open');
+};
