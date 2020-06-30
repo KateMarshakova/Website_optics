@@ -1,3 +1,36 @@
+.contact-name {
+  margin: 18px 0;
+}
 
+.information-visible__tel {
+  position: relative;
+  padding-top: 11px;
+  margin-top: 30px;
+}
+.information-visible__tel::before {
+  content: "";
+  border-top: 1px solid #d3d3d3;
+  display: block;
+  position: absolute;
+  width: 99%;
+  top: 0;
+}
+.information-visible__tel a {
+  color: #5a5959;
+  font-size: 18px;
+}
+.information-visible__tel a:hover {
+  color: #151515;
+}
+.information-visible__mail a {
+  color: #5a5959;
+  font-size: 18px;
+}
+.information-visible__mail a:hover {
+  color: #151515;
+}
+.information-visible__works {
+  margin-bottom: 37px;
+}
 
 /*# sourceMappingURL=contact.css.map */

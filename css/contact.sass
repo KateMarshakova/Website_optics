@@ -1,0 +1,32 @@
+$border-color: #d3d3d3
+$color-a: #5a5959
+$hover-a: #151515
+
+.contact-name
+  margin: 18px 0
+
+.information-visible
+  &__tel
+    position: relative
+    padding-top: 11px
+    margin-top: 30px
+    &::before
+      content: ''
+      border-top: 1px solid  $border-color
+      display: block
+      position: absolute
+      width: 99%
+      top: 0
+    a
+      color: $color-a
+      font-size: 18px
+      &:hover
+        color: $hover-a
+  &__mail
+    a
+      color: $color-a
+      font-size: 18px
+      &:hover
+        color: $hover-a
+  &__works
+    margin-bottom: 37px
